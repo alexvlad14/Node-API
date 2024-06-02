@@ -1,11 +1,30 @@
-## About NODE API
+# About NODE API
 This project is with Node.js, Express and MongoDB.
 
 ## API Features
 The application can create, read, update and delete courses in a database.
 
 
+## Setup
 
+To run this application, you will need Node.js installed on your system. <br>
+
+Download Node.js from (https://nodejs.org/en)) and install it. <br>
+
+Clone this repository to your local machine and navigate to the project directory. <br>
+
+
+## Install the required dependencies by running the following command:
+
+npm install
+
+## Usage
+
+Start the server by running the following command: <br>
+
+npm run serve
+
+This will start the server on port 3000. You can access the API endpoints using a tool like Postman or send HTTP requests using a tool like cURL.
 
 
 ## Testing with Postman 
