@@ -1,3 +1,13 @@
+## About NODE API
+This project is with Node.js, Express and MongoDB.
+
+## API Features
+The application can create, read, update and delete courses in a database.
+
+
+
+
+
 ## Testing with Postman 
 
 
