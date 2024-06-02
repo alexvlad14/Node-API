@@ -11,9 +11,9 @@ Open Postman and create a new collection to organize your API requests.
 
 ### GET /courses
 
-Method: GET
-URL: http://localhost:3000/api/courses
-Click "Send" to retrieve all courses.
+Method: GET <br>
+URL: http://localhost:3000/api/courses <br>
+Click "Send" to retrieve all courses. <br>
 
 ### GET /courses/{id}
 
