@@ -31,7 +31,7 @@ Body (raw, JSON): <br>
   "description": "Course Description", <br>
   "status": "Published", <br>
   "is_premium": false <br>
-}
+} <br>
 Click "Send" to create a new course. <br>
 
 ### PUT /courses/{id}
