@@ -1,28 +1,31 @@
-<br> Testing with Postman </br>
+# Testing with Postman 
 
 
 Download Postman from (https://www.postman.com/) and install it.
-Create a New Collection:
+
+# Create a New Collection:
 
 Open Postman and create a new collection to organize your API requests.
-Create and Test Endpoints:
 
-GET /courses
+# Create and Test Endpoints:
+
+# GET /courses
 
 Method: GET
 URL: http://localhost:3000/api/courses
 Click "Send" to retrieve all courses.
-GET /courses/{id}
+
+# GET /courses/{id}
 
 Method: GET
 URL: http://localhost:3000/api/courses/1 (replace 1 with an actual course ID)
 Click "Send" to retrieve a specific course by ID.
-POST /courses
+
+# POST /courses
 
 Method: POST
 URL: http://localhost:3000/api/courses
 Body (raw, JSON):
-json
 {
   "title": "New Course",
   "description": "Course Description",
@@ -30,7 +33,8 @@ json
   "is_premium": false
 }
 Click "Send" to create a new course.
-PUT /courses/{id}
+
+# PUT /courses/{id}
 
 Method: PUT
 URL: http://localhost:3000/api/courses/1 (replace 1 with an actual course ID)
@@ -44,8 +48,12 @@ Body (raw, JSON):
 }
 
 Click "Send" to update the course.
-DELETE /courses/{id}
+
+# DELETE /courses/{id}
 
 Method: DELETE
 URL: http://localhost:3000/api/courses/0 (replace 0 with an actual course ID)
 Click "Send" to delete the course.
+
+
+![Screenshot_1](image/Screenshot_12.png)-->
