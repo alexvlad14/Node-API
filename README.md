@@ -16,7 +16,9 @@ Clone this repository to your local machine and navigate to the project director
 
 ## Install the required dependencies by running the following command:
 <br>
+
 ### npm install <br>
+
 <br>
 
 ## Usage
