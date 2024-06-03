@@ -45,13 +45,13 @@ Open Postman and create a new collection to organize your API requests.
 
 Method: GET <br>
 URL: http://localhost:3000/courses <br>
-Click "Send" to retrieve all courses. <br>
+
 
 ### GET /courses/{id}
 
 Method: GET <br>
 URL: http://localhost:3000//courses/0 (replace 0 with an actual course ID) <br>
-Click "Send" to retrieve a specific course by ID. <br>
+
 
 ### POST /courses
 
@@ -64,7 +64,7 @@ Body (raw, JSON): <br>
   "status": "Published", <br>
   "is_premium": false <br>
 } <br>
-Click "Send" to create a new course. <br>
+
 
 ### PUT /courses/{id}
 
@@ -79,13 +79,13 @@ Body (raw, JSON): <br>
   "is_premium": true <br>
 } <br>
 
-Click "Send" to update the course. <br>
+
 
 ### DELETE /courses/{id} 
 
 Method: DELETE <br>
 URL: http://localhost:3000/courses/0 (replace 0 with an actual course ID) <br>
-Click "Send" to delete the course. <br>
+
 
 
 
