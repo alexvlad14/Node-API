@@ -39,8 +39,6 @@ Download Postman from (https://www.postman.com/) and install it.
 
 Open Postman and create a new collection to organize your API requests.
 
-### Create and Test Endpoints:
-
 ### GET /courses
 
 Method: GET <br>
